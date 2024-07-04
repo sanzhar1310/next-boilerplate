@@ -1,5 +1,5 @@
 import { auth } from "src/lib/auth";
 
 export default auth((req) => {
-  console.log(req);
+  // console.log(req.body);
 });
