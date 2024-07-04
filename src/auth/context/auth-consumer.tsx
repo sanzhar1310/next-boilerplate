@@ -1,6 +1,5 @@
 'use client';
 
-import { SplashScreen } from 'src/components/loading-screen';
 
 import { auth } from 'src/lib/auth';
 
